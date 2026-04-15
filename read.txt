@@ -1,0 +1,4 @@
+chmod +x todolistmaker.py
+
+
+run './todolistmaker.py' without the ' to run the file!
